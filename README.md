@@ -1,4 +1,4 @@
 # Test
 First repo
 
-Autho-Jayaram
+Author-Jayaram
